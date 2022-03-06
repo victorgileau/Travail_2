@@ -57,3 +57,8 @@ Je pense que je vais resentire un sentiment de réussite et confience en fesant 
 ## Chère Sasha :
 
 Un sentiment d'impussance avec le fait qu'ont te montre un perssonnge qui ne vas pas bien est tunpeu faire très pour l'aider.
+
+
+# Ce que je ferai dans les projets
+
+Je ferais surment n'inporte quelle est le projet quelle que chose de visuel, car mes capaciter cont plus dédier a dessiner, montage et non a la programmation. 
