@@ -28,6 +28,32 @@ Raison : ce projet est interessant, car il parle de l'éspérience COVID-19 des 
 
 - 6 : Chère Sasha
 
-Raison : Sur tout l'est projet ça doit être celui qui demande de plus de préparation, recréer un chambre en différend état ça doit être difficile, mais l'idée ne vient pas me chercher du tout personnellement donc je n’ai pas le plus grand intérêt, mais c’est une expérience qui vau la peine d'être vécu je pense.
+Raison : Sur tout l'est projet ça doit être celui qui demande de plus de préparation, recréer une chambre en différend état ça doit être difficile, mais l'idée ne vient pas me chercher du tout personnellement donc je n’ai pas le plus grand intérêt, mais c’est une expérience qui vau la peine d'être vécu je pense.
 
 
+# Ressenti des installations
+
+
+## L'horloge de l'apocalypse :
+
+Je pense que je vais reseentire un sentiment, de peur de changement, car le temps et l'atmospére change a travers l'oeuvre. Je surment resentire un sentiment de délivrance a la fin de l'oeuvre car il y aurra un renouveau. Je vais avoir peur, car l'oeuvre commence dans une embience calme et devient agressive plus elle avance et ce détant a la fin dont le renouveaux et la relaxation a la fin.
+
+## Chronaufrage :
+
+Je pense que vais ressentir de la tristesse au début parce que de ce que j'ai vu les œuvres son sombre au milieu mais devienne colorer à la fin donc devient joyeux.
+
+## Distorsion collective :
+
+Je vais surement ressentir de la mauvaise nostalgie sur le temps de la covid-19 et les cours en ligne. Me rappeler comment c'est mieux d'avoir des cours en présence vue que c'est le thème secondaire au temps de leur œuvre.
+
+## Jeu temporel :
+
+Je vais surement resentire un sentiment de perte de controle avec l'animateur du quistionaire qui avoir différenct réaction a des réponse au question et le fait qu'il peu y avoir plusieur fin a l'expérience.
+
+## 3 minutes :
+
+Je pense que je vais resentire un sentiment de réussite et confience en fesant le jeu de ballon chasseur et un sentiment d'issolement et tristesse en fesant l'expérience de casier, emplifer avec le VR.
+
+## Chère Sasha :
+
+Un sentiment d'impussance avec le fait qu'ont te montre un perssonnge qui ne vas pas bien est tunpeu faire très pour l'aider.
