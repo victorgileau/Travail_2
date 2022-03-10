@@ -26,8 +26,8 @@ Stress et de l'inconfort, donc dure plus longtemps mentalement. L’œuvre donne
 # Le schéma de l'installation prévue :
 (insérer le schéma de plantation, avec la source)
 
+![shema_installation_oeuvre_3_minutes.png](medias/shema_installation_oeuvre_3_minutes.png)
 
-medias/shema_installation_oeuvre_3_minutes.png
 # ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
 
 
