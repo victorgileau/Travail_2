@@ -28,9 +28,11 @@ Stress et de l'inconfort, donc dure plus longtemps mentalement. L’œuvre donne
 
 ![shema_installation_oeuvre_3_minutes.png](medias/shema_installation_oeuvre_3_minutes.png)
 
-# ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
+source site web TIM : (https://tim-montmorency.com/2022/projets/3-minutes/docs/web/preproduction.html)
 
+# Ce que je frait durant l'experience :
 
+Durant l'expérience il faut ressentir une sorte de réussite los de la premier partie avec le casque VR et jouer au jeu de lancer les ballons sur les cibles, et aller dans un cassier par la suite de la premier partie, être isoler et entendre des bruit dérangent, donc ressentir du stress et de la tristesse.
 
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
 
