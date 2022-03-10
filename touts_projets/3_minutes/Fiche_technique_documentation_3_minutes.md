@@ -30,9 +30,10 @@ Stress et de l'inconfort, donc dure plus longtemps mentalement. L’œuvre donne
 
 source site web TIM : (https://tim-montmorency.com/2022/projets/3-minutes/docs/web/preproduction.html)
 
-# Ce que je frait durant l'experience :
+# Ce qui est ettendu de l'interacteurs.trise :
 
-Durant l'expérience il faut ressentir une sorte de réussite los de la premier partie avec le casque VR et jouer au jeu de lancer les ballons sur les cibles, et aller dans un cassier par la suite de la premier partie, être isoler et entendre des bruit dérangent, donc ressentir du stress et de la tristesse.
+Durant l'expérience il faut ressentir une sorte de réussite los de la première partie avec le casque VR et jouer au jeu de lancer les ballons sur les cibles, et aller dans un cassier par la suite de la première partie, être isoler et entendre des bruits dérangent, donc ressentir du stress et de la tristesse. Ressentir la différence entre les deux expériences donner dans le même nombre de temps.
+
 
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
 
