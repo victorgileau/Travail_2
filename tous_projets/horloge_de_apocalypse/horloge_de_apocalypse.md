@@ -2,11 +2,17 @@
 L'horloge de l'apocalypse
 
 # les créateurs et créatrices
+
 -Maxime Sabourin
+
 -Louis Philippe Gravel
+
 -Alexis Lacasse
+
 -Tristan Girard-Montpetit
+
 -Maxime De Falco
+
 # la façon dont le thème du temps est exploité dans la création
 
 
