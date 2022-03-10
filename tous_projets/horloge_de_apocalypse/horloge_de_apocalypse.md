@@ -2,12 +2,11 @@
 L'horloge de l'apocalypse
 
 # les créateurs et créatrices
-Nom du participant 1: Maxime Sabourin
-Nom du participant 2: Louis-Philippe Gravel
-Nom du participant 3:Alexis Lacasse
-Nom du participant 4: Tristan Girard-Montpetit
-Nom du participant 5: Maxime De Falco
-
+-Maxime Sabourin
+-Louis Philippe Gravel
+-Alexis Lacasse
+-Tristan Girard-Montpetit
+-Maxime De Falco
 # la façon dont le thème du temps est exploité dans la création
 
 
