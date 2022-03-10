@@ -16,7 +16,9 @@ Stress et de l'inconfort, donc dure plus longtemps mentalement. L’œuvre donne
 
 # L'ambiance :
 
+- La premier partie : Joyeuse, active et réussite.
 
+- La deuxième partie : Triste, stress et isolement.
 
 # L'installation en cours dans les studios :
 (photos à l'appui)
