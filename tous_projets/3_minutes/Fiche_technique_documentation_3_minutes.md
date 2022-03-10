@@ -21,14 +21,14 @@ Stress et de l'inconfort, donc dure plus longtemps mentalement. L’œuvre donne
 - La deuxième partie : Triste, stress et isolement.
 
 # L'installation en cours dans les studios :
-(photos à l'appui)
 
 ![cassier_oeuvre_3_minutes.png](medias/cassier_oeuvre_3_minutes.png)
 
 ![oeuvre_3_minutes_.png](medias/oeuvre_3_minutes_.png)
 
+source site web TIM : (https://tim-montmorency.com/2022/projets/3-minutes/docs/web/preproduction.html)
+
 # Le schéma de l'installation prévue :
-(insérer le schéma de plantation, avec la source)
 
 ![shema_installation_oeuvre_3_minutes.png](medias/shema_installation_oeuvre_3_minutes.png)
 
