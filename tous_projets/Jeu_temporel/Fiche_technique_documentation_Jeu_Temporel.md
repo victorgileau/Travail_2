@@ -9,11 +9,11 @@ Jeu Temporel
 
 # La façon dont le thème du temps est exploité dans la création :
 
-
+Le temps?
 
 # L'ambiance :
 
-
+L'ambiance va changer au fil de l'experience 
 
 # L'installation en cours dans les studios :
 
