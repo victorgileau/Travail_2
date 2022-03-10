@@ -1,10 +1,11 @@
 # Titre :
 
-
+Jeu Temporel
 
 # Les créateurs :
 
-
+- Raphaël Fillion
+- Philippe Trudel
 
 # La façon dont le thème du temps est exploité dans la création :
 
