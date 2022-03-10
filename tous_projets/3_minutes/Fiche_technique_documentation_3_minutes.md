@@ -23,9 +23,9 @@ Stress et de l'inconfort, donc dure plus longtemps mentalement. L’œuvre donne
 # L'installation en cours dans les studios :
 (photos à l'appui)
 
-medias/cassier_oeuvre_3_minutes.png
+![cassier_oeuvre_3_minutes.png](medias/cassier_oeuvre_3_minutes.png)
 
-
+![oeuvre_3_minutes_.png](medias/oeuvre_3_minutes_.png)
 
 # Le schéma de l'installation prévue :
 (insérer le schéma de plantation, avec la source)
