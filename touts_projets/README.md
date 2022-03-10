@@ -1,1 +1,1 @@
-Contient tout les projets
+Cette fiche contient tous les projets.
