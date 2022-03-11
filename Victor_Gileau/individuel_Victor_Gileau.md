@@ -43,11 +43,11 @@ Je pense que vais ressentir de la tristesse au début parce que de ce que j'ai v
 
 ## Distorsion collective :
 
-Je vais surement ressentir de la mauvaise nostalgie sur le temps de la Covid-19 et les cours en ligne. Je vais mee rappeler à quel point c'est mieux d'avoir des cours en présence vue que c'est le thème secondaire au temps de leur œuvre.
+Je vais surement ressentir de la mauvaise nostalgie sur le temps de la Covid-19 et les cours en ligne. Je vais me rappeler à quel point c'est mieux d'avoir des cours en présence vu que c'est le thème secondaire au temps de leur œuvre.
 
 ## Jeu temporel :
 
-Je vais surement ressentir un sentiment de perte de contrôle avec l'animateur du questionnaire qui avoir différente réaction a des réponses au question et le fait qu'il peut y avoir plusieurs fin à l'expérience.
+Je vais surement ressentir un sentiment de perte de contrôle avec l'animateur du questionnaire qui a différentes réactions à des réponses aux questions et le fait qu'il peut y avoir plusieurs fins à l'expérience.
 
 ## 3 minutes :
 
