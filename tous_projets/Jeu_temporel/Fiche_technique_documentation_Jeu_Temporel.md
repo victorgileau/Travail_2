@@ -23,9 +23,13 @@ L'ambiance va changer au fil de l'experience
 
 ![installation_oeuvre_Jeu_Temporel_3.jpg](medias_Jeu_Temporel/installation_oeuvre_Jeu_Temporel_3.jpg)
 
+source des images : (https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/index.html)
+
 # Le schéma de l'installation prévue :
 
 ![shema_installation_oeuvre_Jeu_Temporel.PNG](medias_Jeu_Temporel/shema_installation_oeuvre_Jeu_Temporel.PNG)
+
+source de l'image : (https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/preproduction.html)
 
 # Ce qui est ettendu de l'interacteurs.trise :
 
