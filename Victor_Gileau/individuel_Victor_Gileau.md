@@ -51,7 +51,7 @@ Je vais surement ressentir un sentiment de perte de contrôle avec l'animateur d
 
 ## 3 minutes :
 
-Je pense que je vais ressentir un sentiment de réussite et confiance en fessant le jeu de ballon chasseur et un sentiment d'isolement et tristesse en expérimentant l'expérience de casier, amplifier avec le VR.
+Je pense que je vais ressentir un sentiment de réussite et de confiance en faisant le jeu de ballon chasseur et un sentiment d'isolement et de tristesse en expérimentant l'expérience du casier, amplifiée avec le VR.
 
 ## Chère Sasha :
 
