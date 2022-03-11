@@ -22,10 +22,10 @@ Stress et de l'inconfort, donc dure plus longtemps mentalement. L’œuvre donne
 
 # L'installation en cours dans les studios :
 
-(image cassier où ce déroule la 2e partie de l'oeuvre)
+(image du casier où se déroule la 2e partie de l'oeuvre)
 ![cassier_oeuvre_3_minutes.png](medias/cassier_oeuvre_3_minutes.png)
 
-(image installation de l'oeuvre)
+(image de l'installation de l'oeuvre)
 ![oeuvre_3_minutes_.png](medias/oeuvre_3_minutes_.png)
 
 source site web TIM : (https://tim-montmorency.com/2022/projets/3-minutes/docs/web/preproduction.html)
