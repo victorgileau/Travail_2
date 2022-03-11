@@ -55,7 +55,7 @@ Je pense que je vais ressentir un sentiment de réussite et de confiance en fais
 
 ## Chère Sasha :
 
-Un sentiment d'impuissance avec le fait qu'on te montre un personnage qui ne vas pas bien est tu ne peux rien faire pour l'aider. De plus, ces sentiments son améliorer avec les son et la musiques qui va être ajouter dans l’expérience.
+Un sentiment d'impuissance avec le fait qu'on te montre un personnage qui ne va pas bien et tu ne peux rien faire pour l'aider. De plus, ces sentiments sont améliorés avec les sons et la musique qui va être ajoutée dans l’expérience.
 
 
 # Ce que je ferai dans les projets :
