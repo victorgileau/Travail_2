@@ -14,16 +14,16 @@ Raison : J'aime aussi l'idée de cette œuvre-ci, mais elle n'est pas aussi inte
 
 - 3 : Jeu temporel
 
-Raison : J'aime le fait que c'est un jeu qui a un animateur qui change un peu comme une AI ça permet d'avoir une expérience immersive et interactive avec l'animateur et le questionnaire ce qui augmente l'intérêt envers l'œuvre. De plus, il peut y avoir plusieurs fins au questionnaire ce qui permet à la revisite de l'œuvre.
+Raison : J'aime le fait que c'est un jeu qui a un animateur qui change un peu comme un AI. Cela permet d'avoir une expérience immersive et interactive avec l'animateur et le questionnaire ce qui augmente l'intérêt envers l'œuvre. De plus, il peut y avoir plusieurs fins au questionnaire ce qui permet à revisiter l'œuvre.
 
 - 4 : 3 minutes
 
-Raison : Ce projet a une bonne idée donner trois minutes pour jouer au ballon chasseur et par la suite isoler le spectateur, ça va surement être une expérience intéressante, mais je n'ai pas atte de la vivre. Aussi le fait de faire un leu 3D en VR c'est intéressant je n'ai jamais fait de VR mais c'est un concept intéressant que peu des œuvres explores.
+Raison : Ce projet a une bonne idée de donner trois minutes pour jouer au ballon chasseur et par la suite isoler le spectateur, cela va surement être une expérience intéressante, mais je n'ai pas hâte de la vivre. Aussi, le fait de faire un jeu 3D en VR c'est intéressant car je n'ai jamais fait de VR mais c'est un concept intéressant que peu des œuvres explorent.
 
 
 - 5 : Distorsion collective
 
-Raison : ce projet est interessant, car il parle de l'éspérience COVID-19 des 2 dernières annèes, ca va doc être une expérience interesante, mais bon personne veu revivre les deux derni;èeres années je crois. Cette oeuvre est aussi intérésente dans le fait qu'elle utilise le VR ce qui est un outils nouveau et interrésant avec beaucoup de possibiliter.
+Raison : Ce projet est intéressant, car il parle de l'expérience de la COVID-19 des 2 dernières années, cela va donc être une expérience intéressante, mais bon, personne désire revivre les deux dernièeres années je crois. Cette oeuvre est aussi intéressante dans le fait qu'elle utilise le VR ce qui est un outil nouveau et interrésant avec beaucoup de possibilités.
 
 
 - 6 : Chère Sasha
