@@ -20,7 +20,7 @@ L'ambiance va changer au fil de l'expérience. Au début, l'ambiance ressemble �
 (vue d'ensemble sur l'installation de l'oeuvre)
 ![installation_oeuvre_Jeu_Temporel_1.jpeg](medias_Jeu_Temporel/installation_oeuvre_Jeu_Temporel_1.jpeg)
 
-(installation du poduium)
+(installation du podium)
 ![installation_oeuvre_Jeu_Temporel_2.jpeg](medias_Jeu_Temporel/installation_oeuvre_Jeu_Temporel_2.jpeg)
 
 (installation des projecteurs)
@@ -30,14 +30,14 @@ source des images : (https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/
 
 # Le schéma de l'installation prévue :
 
-(shéma de l'installation de l'oeuvre)
+(schéma de l'installation de l'oeuvre)
 ![shema_installation_oeuvre_Jeu_Temporel.PNG](medias_Jeu_Temporel/shema_installation_oeuvre_Jeu_Temporel.PNG)
 
 source de l'image : (https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/preproduction.html)
 
-# Ce qui est ettendu de l'interacteur.trise :
+# Ce qui est attendu de l'interacteur.trice :
 
-Il est attendu de l'interacteurs qu'il réponde aux questions demander dans le questionnaire donner par l'animateur de l'expérience et porter attention aux réactions de l'animateur par rapport au réponse donnée par l'interacteur. On peut voir les questions avec le podium ou un écran tactile est poser pour choisir une réponse au choix de réponse. Voire la réaction de l'animateur avec les projecteurs qui le projet sur les murs.
+Il est attendu de l'interacteur qu'il réponde aux questions demandées dans le questionnaire données par l'animateur de l'expérience et de porter attention aux réactions de l'animateur par rapport au réponses données par l'interacteur. On peut voir les questions avec le podium ou un écran tactile est poser pour choisir une réponse au choix de réponse. Voire la réaction de l'animateur avec les projecteurs qui le projet sur les murs.
 
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
 
