@@ -45,8 +45,8 @@ Durant l'expérience il faut ressentir une sorte de réussite los de la premièr
 Pour faire l'expérience en VR il faut savoir s'en servir donc avoir fait ce cours.
 
 - Animation 3D :
-Pour faire des models 3D a mettre dans le jeu (l'experience) VR.
+Pour faire des modèles 3D à mettre dans le jeu (l'expérience) VR.
 
 - Conception sonore interactive :
-Pour ajouter du son dans le jeu (l'experience) VR pour la rendre plus interactive.
+Pour ajouter du son dans le jeu (l'expérience) VR pour la rendre plus interactive.
 
