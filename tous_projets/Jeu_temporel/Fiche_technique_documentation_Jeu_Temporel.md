@@ -37,7 +37,7 @@ source de l'image : (https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/
 
 # Ce qui est attendu de l'interacteur.trice :
 
-Il est attendu de l'interacteur qu'il réponde aux questions demandées dans le questionnaire données par l'animateur de l'expérience et de porter attention aux réactions de l'animateur par rapport au réponses données par l'interacteur. On peut voir les questions avec le podium ou un écran tactile est poser pour choisir une réponse au choix de réponse. Voire la réaction de l'animateur avec les projecteurs qui le projet sur les murs.
+Il est attendu de l'interacteur qu'il réponde aux questions demandées dans le questionnaire données par l'animateur de l'expérience et de porter attention aux réactions de l'animateur par rapport aux réponses données par l'interacteur. On peut voir les questions avec le podium où un écran tactile est posé pour choisir une réponse et voir la réaction de l'animateur avec les projecteurs qui le projette sur les murs.
 
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
 
