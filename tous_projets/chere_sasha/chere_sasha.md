@@ -22,7 +22,7 @@ Chère Sasha
 
 Lors de la première partie, nous serons dans une petite chambre sale.
 
-Lors de la deuxieme partie nous serons dans une chambre beaucoup plus propre et ordonné.
+Lors de la deuxieme partie, nous serons dans une chambre beaucoup plus propre et ordonnée.
 
 
 # l'installation en cours dans les studios 
@@ -38,13 +38,13 @@ Lors de la deuxieme partie nous serons dans une chambre beaucoup plus propre et 
 
 # ce qui sera attendu de vous, en tant qu'interacteur
 
-Nous devons apprendre a connaitre Sasha. Il faut bien ecouter les message vocaux, les notes, analyser la chambre de Sasha et comprendre le but de ses actions.
+Nous devons apprendre à connaitre Sasha. Il faut bien écouter les messages vocaux, les notes et analyser la chambre de Sasha et comprendre le but de ses actions.
 
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
 
-conception sonore pour faire les musiques et l'ambiances.
+conception sonore pour faire les musiques et l'ambiance.
 
-integration web pour pouvoir programmer l'interface
+intégration web pour pouvoir programmer l'interface
 
 conception vidéo pour faire les vidéos et les montages.
 
