@@ -25,7 +25,7 @@ L'ambiance va changer au fil de l'experience
 
 # Le schéma de l'installation prévue :
 
-
+![shema_installation_oeuvre_Jeu_Temporel.PNG](medias_Jeu_Temporel/shema_installation_oeuvre_Jeu_Temporel.PNG)
 
 # Ce qui est ettendu de l'interacteurs.trise :
 
