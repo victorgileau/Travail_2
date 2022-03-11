@@ -33,10 +33,9 @@ Raison : Sur tout l'est projet ça doit être celui qui demande de plus de prép
 
 # Ressenti des installations
 
-
 ## L'horloge de l'apocalypse :
 
-Je pense que je vais reseentire un sentiment, de peur de changement, car le temps et l'atmospére change a travers l'oeuvre. Je surment resentire un sentiment de délivrance a la fin de l'oeuvre car il y aurra un renouveau. Je vais avoir peur, car l'oeuvre commence dans une embience calme et devient agressive plus elle avance et ce détant a la fin dont le renouveaux et la relaxation a la fin.
+Je pense que je vais ressentir un sentiment, de peur de changement, car le temps et l'atmosphère change à travers l'œuvre. Je surement ressentir un sentiment de délivrance à la fin de l'œuvre car il y aura un renouveau. Je vais avoir peur, car l'œuvre commence dans une ambiance calme et devient agressive plus elle avance et ce d’étant a la fin dont le renouveau et la relaxation à la fin.
 
 ## Chronaufrage :
 
@@ -48,17 +47,18 @@ Je vais surement ressentir de la mauvaise nostalgie sur le temps de la covid-19 
 
 ## Jeu temporel :
 
-Je vais surement resentire un sentiment de perte de controle avec l'animateur du quistionaire qui avoir différenct réaction a des réponse au question et le fait qu'il peu y avoir plusieur fin a l'expérience.
+Je vais surement ressentir un sentiment de perte de contrôle avec l'animateur du questionnaire qui avoir différente réaction a des réponses au question et le fait qu'il peut y avoir plusieurs fin à l'expérience.
 
 ## 3 minutes :
 
-Je pense que je vais resentire un sentiment de réussite et confience en fesant le jeu de ballon chasseur et un sentiment d'issolement et tristesse en fesant l'expérience de casier, emplifer avec le VR.
+Je pense que je vais ressentir un sentiment de réussite et confiance en fessant le jeu de ballon chasseur et un sentiment d'isolement et tristesse en expérimentant l'expérience de casier, amplifier avec le VR.
 
 ## Chère Sasha :
 
-Un sentiment d'impussance avec le fait qu'ont te montre un perssonnge qui ne vas pas bien est tunpeu faire très pour l'aider.
+Un sentiment d'impuissance avec le fait qu'on te montre un personnage qui ne vas pas bien est tu ne peux rien faire pour l'aider. De plus, ces sentiments son améliorer avec les son et la musiques qui va être ajouter dans l’expérience.
 
 
 # Ce que je ferai dans les projets
 
-Je ferais surment n'inporte quelle est le projet quelle que chose de visuel, car mes capaciter cont plus dédier a dessiner, montage et non a la programmation. 
+Je ferais surement n'importe quelle est le projet quelle que chose de visuel, car mes capaciter sont plus dédier à dessiner, montage et non à la programmation. Je m’occuperai donc des illustrations, des images ou de montage s’il y en a besoin.
+
