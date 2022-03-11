@@ -28,7 +28,11 @@ Lors de la deuxieme partie nous serons dans une chambre beaucoup plus propre et 
 # l'installation en cours dans les studios 
 ![jw-projecteur_02.jpg](medias/jw-projecteur_02.jpg)
 
+![s-journal_ado_02.jpg](medias/s-journal_ado_02.jpg)
+
 # le schéma de l'installation prévue 
+
+
 # ce qui sera attendu de vous, en tant qu'interacteur
 
 
