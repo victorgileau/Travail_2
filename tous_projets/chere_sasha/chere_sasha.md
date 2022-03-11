@@ -38,6 +38,7 @@ Lors de la deuxieme partie nous serons dans une chambre beaucoup plus propre et 
 
 # ce qui sera attendu de vous, en tant qu'interacteur
 
+Nous devons apprendre a connaitre Sasha. Il faut bien ecouter les message vocaux, les notes, analyser la chambre de Sasha et comprendre le but de ses actions.
 
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
 
