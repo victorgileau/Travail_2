@@ -12,17 +12,17 @@
 - 6 : Chère Sasha
 
 
-Ressenti des installations
-L'horloge de l'apocalypse :
+# Ressenti des installations
+# L'horloge de l'apocalypse :
 
+## Chronaufrage :
 
-Chronaufrage :
-Je pense que vais ressentir de la tristesse au début parce que de ce que j'ai vu, les œuvres sont sombres au milieu mais deviennent colorés à la fin donc deviennent joyeux.
+## Distorsion collective :
 
-Distorsion collective :
+## Jeu temporel :
 
-Jeu temporel :
+## 3 minutes :
 
-3 minutes :
+## Chère Sasha :
 
-Chère Sasha :
+# Ce que je ferai dans les projets :
