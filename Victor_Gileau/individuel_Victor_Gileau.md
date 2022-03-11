@@ -35,15 +35,15 @@ Raison : Sur tous les projets, cela doit être celui qui demande le plus de pré
 
 ## L'horloge de l'apocalypse :
 
-Je pense que je vais ressentir un sentiment, de peur de changement, car le temps et l'atmosphère change à travers l'œuvre. Je surement ressentir un sentiment de délivrance à la fin de l'œuvre car il y aura un renouveau. Je vais avoir peur, car l'œuvre commence dans une ambiance calme et devient agressive plus elle avance et ce d’étant a la fin dont le renouveau et la relaxation à la fin.
+Je pense que je vais ressentir un sentiment, de peur du changement, car le temps et l'atmosphère changent à travers l'œuvre. Je vais surement ressentir un sentiment de délivrance à la fin de l'œuvre car il y aura un renouveau. Je vais avoir peur, car l'œuvre commence dans une ambiance calme et devient agressive plus elle avance, et ce jusqu'à la fin où il y aura un renouveau et un moment de relaxation.
 
 ## Chronaufrage :
 
-Je pense que vais ressentir de la tristesse au début parce que de ce que j'ai vu les œuvres son sombre au milieu mais devienne colorer à la fin donc devient joyeux.
+Je pense que vais ressentir de la tristesse au début parce que de ce que j'ai vu, les œuvres sont sombres au milieu mais deviennent colorés à la fin donc deviennent joyeux.
 
 ## Distorsion collective :
 
-Je vais surement ressentir de la mauvaise nostalgie sur le temps de la covid-19 et les cours en ligne. Me rappeler comment c'est mieux d'avoir des cours en présence vue que c'est le thème secondaire au temps de leur œuvre.
+Je vais surement ressentir de la mauvaise nostalgie sur le temps de la Covid-19 et les cours en ligne. Je vais mee rappeler à quel point c'est mieux d'avoir des cours en présence vue que c'est le thème secondaire au temps de leur œuvre.
 
 ## Jeu temporel :
 
