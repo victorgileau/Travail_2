@@ -60,5 +60,5 @@ Un sentiment d'impuissance avec le fait qu'on te montre un personnage qui ne va 
 
 # Ce que je ferai dans les projets :
 
-Je ferais surement n'importe quelle est le projet quelle que chose de visuel, car mes capaciter sont plus dédier à dessiner, montage et non à la programmation. Je m’occuperai donc des illustrations, des images ou de montage s’il y en a besoin.
+Je ferais surement n'importe quel projet, tant que ce soit quelque chose de visuel, car mes capacités sont plus dédiées à dessiner et monter, et non à la programmation. Je m’occuperai donc des illustrations, des images ou du montage au besoin.
 
