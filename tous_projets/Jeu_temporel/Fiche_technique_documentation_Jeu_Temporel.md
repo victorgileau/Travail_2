@@ -17,16 +17,20 @@ L'ambiance va changer au fil de l'expérience, au début l'ambiance ressemble à
 
 # L'installation en cours dans les studios :
 
+(vue d'ensemble sur l'installation de l'oeuvre)
 ![installation_oeuvre_Jeu_Temporel_1.jpeg](medias_Jeu_Temporel/installation_oeuvre_Jeu_Temporel_1.jpeg)
 
+(installation du poduium)
 ![installation_oeuvre_Jeu_Temporel_2.jpeg](medias_Jeu_Temporel/installation_oeuvre_Jeu_Temporel_2.jpeg)
 
+(installation des projecteurs)
 ![installation_oeuvre_Jeu_Temporel_3.jpg](medias_Jeu_Temporel/installation_oeuvre_Jeu_Temporel_3.jpg)
 
 source des images : (https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/index.html)
 
 # Le schéma de l'installation prévue :
 
+(shéma de l'installation de l'oeuvre)
 ![shema_installation_oeuvre_Jeu_Temporel.PNG](medias_Jeu_Temporel/shema_installation_oeuvre_Jeu_Temporel.PNG)
 
 source de l'image : (https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/preproduction.html)
