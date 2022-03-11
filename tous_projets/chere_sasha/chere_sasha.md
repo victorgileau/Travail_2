@@ -34,7 +34,7 @@ Lors de la deuxieme partie nous serons dans une chambre beaucoup plus propre et 
 
 ![plantation_01.jpg](medias/plantation_01.jpg)
 
-
+![plantation_02.jpg](medias/plantation_02.jpg)
 
 # ce qui sera attendu de vous, en tant qu'interacteur
 
