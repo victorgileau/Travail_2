@@ -23,12 +23,12 @@ Raison : Ce projet a une bonne idée de donner trois minutes pour jouer au ballo
 
 - 5 : Distorsion collective
 
-Raison : Ce projet est intéressant, car il parle de l'expérience de la COVID-19 des 2 dernières années, cela va donc être une expérience intéressante, mais bon, personne désire revivre les deux dernièeres années je crois. Cette oeuvre est aussi intéressante dans le fait qu'elle utilise le VR ce qui est un outil nouveau et interrésant avec beaucoup de possibilités.
+Raison : Ce projet est intéressant, car il parle de l'expérience de la COVID-19 des 2 dernières années, cela va donc être une expérience intéressante, mais bon, personne désire revivre les deux dernières années je crois. Cette oeuvre est aussi intéressante dans le fait qu'elle utilise le VR, ce qui est un outil nouveau et intéressant avec beaucoup de possibilités.
 
 
 - 6 : Chère Sasha
 
-Raison : Sur tout l'est projet ça doit être celui qui demande de plus de préparation, recréer une chambre en différend état ça doit être difficile, mais l'idée ne vient pas me chercher du tout personnellement donc je n’ai pas le plus grand intérêt, mais c’est une expérience qui vau la peine d'être vécu je pense.
+Raison : Sur tous les projets, cela doit être celui qui demande le plus de préparation, recréer une chambre en différents états doit être difficile, mais l'idée ne vient pas me chercher du tout personnellement donc je n’ai pas le plus grand intérêt, mais c’est une expérience qui vaut la peine d'être vécue selon moi.
 
 
 # Ressenti des installations
