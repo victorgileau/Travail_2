@@ -41,4 +41,12 @@ Durant l'expérience il faut ressentir une sorte de réussite los de la premièr
 
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
 
+- Réalité virtuelle :
+Pour faire l'expérience en VR il faut savoir s'en servir donc avoir fait ce cours.
+
+- Animation 3D :
+Pour faire des models 3D a mettre dans le jeu (l'experience) VR.
+
+- Conception sonore interactive :
+Pour ajouter du son dans le jeu (l'experience) VR pour la rendre plus interactive.
 
