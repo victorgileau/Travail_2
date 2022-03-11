@@ -50,3 +50,9 @@ Pour faire des modèles 3D à mettre dans le jeu (l'expérience) VR.
 - Conception sonore interactive :
 Pour ajouter du son dans le jeu (l'expérience) VR pour la rendre plus interactive.
 
+# Sources :
+
+- site web du projet : https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html
+- vidéos qui présente le projet : https://www.youtube.com/watch?v=0JszUkVBhQc&ab_channel=JérémieLévesque
+- suite site web du projet : https://tim-montmorency.com/2022/projets/3-minutes/docs/web/preproduction.html
+- Github du projet : https://github.com/tim-montmorency/66B-modele_de_projet
