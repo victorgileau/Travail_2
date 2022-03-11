@@ -37,3 +37,18 @@ Il est attendu de l'interacteurs qu'il réponde aux questions demander dans le q
 
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
 
+- Introduction à la programmation multimédia :
+Pour programmer avec HTML/CSS/Javascript pour faire leur questionnaire.
+
+- Conception sonore :
+Pour créé une embiance avec de la musique ou des effets sonore.
+
+- Atelier d’illustration numérique :
+Pour créé le logo du Jeu Temporel et tout ce qui est image dans le questionnaire.
+
+# Sources :
+
+- site web projet : https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/index.html
+- vidéo de présentation : https://www.youtube.com/watch?v=uRu2vjj7Sqw&ab_channel=RaphFillion
+- suite du site du projet : https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/preproduction.html
+- Github du projet : https://github.com/Orbital3/Jeu-Temporel
