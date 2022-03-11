@@ -17,7 +17,7 @@ L'ambiance va changer au fil de l'experience
 
 # L'installation en cours dans les studios :
 
-medias_Jeu_Temporel/installation_oeuvre_Jeu_Temporel_1.jpeg
+![installation_oeuvre_Jeu_Temporel_1.jpeg](medias_Jeu_Temporel/installation_oeuvre_Jeu_Temporel_1.jpeg)
 
 # Le schéma de l'installation prévue :
 
