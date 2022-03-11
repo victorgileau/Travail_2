@@ -32,6 +32,9 @@ Lors de la deuxieme partie nous serons dans une chambre beaucoup plus propre et 
 
 # le schéma de l'installation prévue 
 
+![plantation_01.jpg](medias/plantation_01.jpg)
+
+
 
 # ce qui sera attendu de vous, en tant qu'interacteur
 
