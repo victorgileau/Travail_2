@@ -58,7 +58,7 @@ Je pense que je vais ressentir un sentiment de réussite et confiance en fessant
 Un sentiment d'impuissance avec le fait qu'on te montre un personnage qui ne vas pas bien est tu ne peux rien faire pour l'aider. De plus, ces sentiments son améliorer avec les son et la musiques qui va être ajouter dans l’expérience.
 
 
-# Ce que je ferai dans les projets
+# Ce que je ferai dans les projets :
 
 Je ferais surement n'importe quelle est le projet quelle que chose de visuel, car mes capaciter sont plus dédier à dessiner, montage et non à la programmation. Je m’occuperai donc des illustrations, des images ou de montage s’il y en a besoin.
 
