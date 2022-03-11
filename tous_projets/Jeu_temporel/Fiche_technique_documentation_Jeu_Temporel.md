@@ -9,11 +9,11 @@ Jeu Temporel
 
 # La façon dont le thème du temps est exploité dans la création :
 
-Le temps?
+Le thème du temps est exploité avec le titre Jeu Temporel et c'est un questionnaire qui avance dans le temps et il y a un temps limiter pour réponde à chaque question.
 
 # L'ambiance :
 
-L'ambiance va changer au fil de l'experience 
+L'ambiance va changer au fil de l'expérience, au début l'ambiance ressemble à celle du show de TV (donc ressent du plaisir), et plus l'expérience avance plus stressante ou plus imposante car l'animateur commence à glitcher, mal fonctionner et imposant. Ce qui va augmenter le stress de l'intercateurs.trise.
 
 # L'installation en cours dans les studios :
 
