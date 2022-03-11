@@ -49,6 +49,6 @@ Pour créé le logo du Jeu Temporel et tout ce qui est image dans le questionnai
 # Sources :
 
 - site web projet : https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/index.html
-- vidéo de présentation : https://www.youtube.com/watch?v=uRu2vjj7Sqw&ab_channel=RaphFillion
+- vidéo de présentation du projet : https://www.youtube.com/watch?v=uRu2vjj7Sqw&ab_channel=RaphFillion
 - suite du site du projet : https://tim-montmorency.com/2022/projets/Jeu-Temporel/docs/web/preproduction.html
 - Github du projet : https://github.com/Orbital3/Jeu-Temporel
