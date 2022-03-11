@@ -15,13 +15,21 @@ Chère Sasha
 # la façon dont le thème du temps est exploité dans la création
 
 
+
+
+
 # l'ambiance
 
+Lors de la première partie, nous serons dans une petite chambre sale.
+
+Lors de la deuxieme partie nous serons dans une chambre beaucoup plus propre et ordonné.
 
 
 # l'installation en cours dans les studios 
+
+
 # le schéma de l'installation prévue 
-# ce qui sera attendu de vous, en tant qu'interacteur, lorsque vous ferez l'expérience de l'installation
+# ce qui sera attendu de vous, en tant qu'interacteur
 
 
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
