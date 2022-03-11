@@ -21,7 +21,7 @@ L'ambiance va changer au fil de l'experience
 
 ![installation_oeuvre_Jeu_Temporel_2.jpeg](medias_Jeu_Temporel/installation_oeuvre_Jeu_Temporel_2.jpeg)
 
-![installation_oeuvre_Jeu_Temporel_3.jpeg](medias_Jeu_Temporel/installation_oeuvre_Jeu_Temporel_3.jpeg)
+![installation_oeuvre_Jeu_Temporel_3.jpg](medias_Jeu_Temporel/installation_oeuvre_Jeu_Temporel_3.jpg)
 
 # Le schéma de l'installation prévue :
 
