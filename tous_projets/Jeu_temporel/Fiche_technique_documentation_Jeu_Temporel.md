@@ -41,10 +41,10 @@ Il est attendu de l'interacteurs qu'il réponde aux questions demander dans le q
 Pour programmer avec HTML/CSS/Javascript pour faire leur questionnaire.
 
 - Conception sonore :
-Pour créé une embiance avec de la musique ou des effets sonore.
+Pour créer une ambiance avec de la musique ou des effets sonore.
 
 - Atelier d’illustration numérique :
-Pour créé le logo du Jeu Temporel et tout ce qui est image dans le questionnaire.
+Pour créer le logo du Jeu Temporel et tout ce qui est image dans le questionnaire.
 
 # Sources :
 
