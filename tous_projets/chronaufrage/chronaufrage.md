@@ -22,7 +22,7 @@ chronaufrage
 
 # L'ambiance
 
-lambiance serait calme parce qu'ils ont essayer de reproduire un musé. Il va y avoir 4 grand arts.
+L'ambiance serait calme parce qu'ils ont essayé de reproduire un musée. Il va y avoir quatre grands arts.
 
 # L'installation en cours dans les studios 
 
@@ -36,7 +36,7 @@ lambiance serait calme parce qu'ils ont essayer de reproduire un musé. Il va y 
 
 # Ce qui sera attendu de vous, en tant qu'interacteur
 
-Nous devons regarder les arts et faires des mouvement gestuelle pour animer les ouevres.
+Nous devons regarder les arts et faire des mouvements gestuelles pour animer les oeuvres.
 
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
 
@@ -44,7 +44,7 @@ Animation 2D pour faire les personnages et les animer.
 
 Conception sonore pour faire la musique.
 
-Montage vidéo pour pouvoir mettre en monter le projet.
+Montage vidéo pour pouvoir mettre en montage le projet.
 
 # Source
 
