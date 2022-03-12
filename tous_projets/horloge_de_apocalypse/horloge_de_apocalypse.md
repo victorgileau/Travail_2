@@ -22,6 +22,8 @@ L'horloge de l'apocalypse
 
 # le schéma de l'installation prévue 
 
+![plantation.png](media/plantation.png)
+
 # ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
 
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
