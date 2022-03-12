@@ -37,7 +37,7 @@ source site web TIM : (https://tim-montmorency.com/2022/projets/3-minutes/docs/w
 
 source site web TIM : (https://tim-montmorency.com/2022/projets/3-minutes/docs/web/preproduction.html)
 
-# Ce qui est attendu de l'interacteur.trice :
+# Ce qui est attendu de l'interacteur.
 
 Durant l'expérience, il faut ressentir une sorte de réussite lors de la première partie avec le casque VR et jouer au jeu de lancer les ballons sur les cibles, et aller dans un casier par la suite de la première partie, être isolé et entendre des bruits dérangeants, donc ressentir du stress et de la tristesse. Ressentir la différence entre les deux expériences données dans le même nombre de temps.
 
