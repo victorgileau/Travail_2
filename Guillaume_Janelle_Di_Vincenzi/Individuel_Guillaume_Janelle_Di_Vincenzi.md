@@ -10,7 +10,7 @@ Raison: J'ai envie de tester ce projet car il a l'air amusant à essayer. Ce ser
 
 ## - 3 : Chère Sasha
 
-Raison: Je veux vraiment voir l'installation de la belle chambre et de la chambre sale et j'aime le fait que cette oeuvre sera plus montée physiquement qu'électroniquement. J'ai mis cette oeuvre  la troisième place car elle est moins remplie que l'oeuvre numéro deux selon moi.
+Raison: Je veux vraiment voir l'installation de la belle chambre et de la chambre sale et j'aime le fait que cette oeuvre sera plus montée physiquement qu'électroniquement. J'ai mis cette oeuvre à la troisième place car elle est moins remplie que l'oeuvre numéro deux selon moi.
 
 
 ## - 4 : Chronaufrage
