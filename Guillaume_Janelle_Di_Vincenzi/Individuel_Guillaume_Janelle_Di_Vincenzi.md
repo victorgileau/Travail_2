@@ -10,7 +10,7 @@ Raison: J'ai envie de tester ce projet car il a l'air amusant à essayer. Ce ser
 
 - 3 : Chronaufrage
 
-Raison:
+Raison: J'ai hâte de voir les animations et les dessins créés par les étudiants. Malheureusement, cette 
 
 
 - 4 : Chère Sasha
