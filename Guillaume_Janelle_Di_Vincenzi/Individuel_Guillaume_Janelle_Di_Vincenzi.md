@@ -8,12 +8,12 @@ Raison: J'aime cette oeuvre car je la trouve originale et intéressante. J'aime 
 
 Raison: J'ai envie de tester ce projet car il a l'air amusant à essayer. Ce sera surement amusant de lancer des ballons virtuellement en VR. J'ai utilisé un casque VR une seule fois dans ma vie et c'était quand j'étais plus jeune. Je veux vivre l'expérience d'être enfermé dans un casier pour le plaisir aussi.
 
-- 3 : Chère Sasha
+- 3 : Chronaufrage
 
 Raison:
 
 
-- 4 : Chronaufrage
+- 4 : Chère Sasha
 
 Raison:
 
