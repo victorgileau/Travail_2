@@ -1,9 +1,9 @@
-# technique que nous connaissons pas
+# Technique que nous ne connaissons pas
 
-Nous savons pas comment faire les instalations des projecteurs et des kinect.
+Nous ne savons pas comment faire les installations des projecteurs et des kinect.
 
 
 
-# composante que nous connaissons pas
+# Composante que nous connaissons pas
 
-La composante que nous ne connaissons pas et le magic arm, elle permet de contenir plusieurs accessoires pour l'appareil photo comme des lumières led et  les moniteurs externes.
+La composante que nous ne connaissons pas est le Magic Arm, elle permet de contenir plusieurs accessoires pour l'appareil photo comme des lumières LED et les moniteurs externes.
