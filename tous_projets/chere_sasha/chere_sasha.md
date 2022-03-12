@@ -42,11 +42,11 @@ Nous devons apprendre à connaitre Sasha. Il faut bien écouter les messages voc
 
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
 
-conception sonore pour faire les musiques et l'ambiance.
+Conception sonore pour faire les musiques et l'ambiance.
 
-intégration web pour pouvoir programmer l'interface
+Intégration web pour pouvoir programmer l'interface
 
-conception vidéo pour faire les vidéos et les montages.
+Conception vidéo pour faire les vidéos et les montages.
 
 # source
 
