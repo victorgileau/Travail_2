@@ -43,5 +43,5 @@ Raison: Je ne suis pas spécialement un fan de ce sujet, mais ce projet a l'air 
 ## Chère Sasha : Nous allons nous sentir mal de voir Sasha se faire intimider par ses parents et de ne pas pouvoir intervenir.
 
 # Ce que je ferai dans les projets :
-
+Je ne suis pas fort en programmation. Je ferai quelque chose de visuel comme par exemple: la chambre de Sasha. Je ferai aussi de la sonorisation. Je vais aider à trouver un concept intéressant pour l'oeuvre avec l'équipe.
 
