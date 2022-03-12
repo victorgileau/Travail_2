@@ -24,7 +24,7 @@ Raison:
 ## - 6 : Distorsion collective
 
 Raison:
-Ce projet raconte la vie durant la pandémie mondiale de la Covid-19
+Ce projet raconte la vie durant la pandémie mondiale de la Covid-19 et
 
 
 
