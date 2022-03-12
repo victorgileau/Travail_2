@@ -40,6 +40,8 @@ Raison: Je ne suis pas spécialement un fan de ce sujet, mais ce projet a l'air 
 
 ## 3 minutes : Lors du jeu de ballon je vais me sentir fort et heureux mais lorsque je serai enfermé dans un casier, je vais me sentir seul et coincé dans un petit espace noir.
 
-## Chère Sasha :
+## Chère Sasha : Nous allons nous sentir mal de voir Sasha se faire intimider par ses parents et de ne pas pouvoir intervenir.
 
 # Ce que je ferai dans les projets :
+
+
