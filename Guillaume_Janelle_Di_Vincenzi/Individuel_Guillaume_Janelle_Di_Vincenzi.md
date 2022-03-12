@@ -31,7 +31,7 @@ Raison: Je ne suis pas spécialement un fan de ce sujet, mais ce projet a l'air 
 # Ressenti des installations
 
 ## L'horloge de l'apocalypse :
-Je vais ressentir un peu de stress quand l'aiguille de l'horloge va tourner et que la scène va devenir de pire en pire. Surtout que ça va commencer doux au début et que ca  va graduellement s'empirer ça va être inconfortable.
+Je vais ressentir un peu de stress quand l'aiguille de l'horloge va tourner et que la scène va devenir de pire en pire. Surtout que ça va commencer doux au début et que ça va graduellement s'empirer ça va être inconfortable.
 
 ## Chronaufrage :
 Je crois que ces oeuvres vont nous calmer où nous rendre tristes un peu vu que les thèmes sont sombres.
@@ -40,7 +40,7 @@ Je crois que ces oeuvres vont nous calmer où nous rendre tristes un peu vu que 
 Je crois que cette oeuvre va nous causer un sentiment de dérangement. Cette oeuvre va nous rappeler un mauvais temps et nous serons désatisfaits de nous rappeler de ce temps.
 
 ## Jeu temporel :
-Cette oeuvre va nous donner un sentiment d'inquietude car elle va nous rappeler à quel point nous sommes à risque si nous ne luttons pas contre le changement climatique.
+Cette oeuvre va nous donner un sentiment d'inquiétude car elle va nous rappeler à quel point nous sommes à risque si nous ne luttons pas contre le changement climatique.
 
 ## 3 minutes :
 Lors du jeu de ballon je vais me sentir fort et heureux mais lorsque je serai enfermé dans un casier, je vais me sentir seul et coincé dans un petit espace noir.
