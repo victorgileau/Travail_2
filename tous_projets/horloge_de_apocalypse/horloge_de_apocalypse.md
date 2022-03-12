@@ -18,7 +18,7 @@ Dans cette oeuvre, il y a une horloge qui réagit quand on fait tourner les aigu
 
 # L'ambiance
 
-Nous allons etre dans une salle qui va avoir plusieurs theme different. Toute les fois que L'horloge va tourner l'époque va changer et la musique aussi, l'environnement va etre différent.
+Nous allons être dans une salle où il va y avoir plusieurs thèmes différents. Toutes les fois que l'horloge va tourner, l'époque et la musique vont changer et l'environnement va être différent.
 
 # L'installation en cours dans les studios 
 
@@ -33,15 +33,15 @@ Nous allons etre dans une salle qui va avoir plusieurs theme different. Toute le
 ![plantation.png](media/plantation.png)
 
 # Le qui sera attendu de vous, en tant qu'interacteur
-en tant qu'interacteur nous devons modifier l'heure de l'horloge pour voir les differents thème et la fin du monde.
+en tant qu'interacteur nous devons modifier l'heure de l'horloge pour voir les différents thèmes et la fin du monde.
 
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
 
-conception sonores pour mettre la musique
+Conception sonores pour mettre la musique
 
-espace interactif pour pouvoir mettre la projection au mur
+Espace interactif pour pouvoir mettre la projection au mur
 
-animation 2D pour faire les dessins de l'environnement
+Animation 2D pour faire les dessins de l'environnement
 
 # Source
 
