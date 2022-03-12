@@ -11,16 +11,15 @@ J'ai vraiment aimé ce projet pour des raisons plus sentimentales, je m'explique
 
 ##  - 3 : Jeu temporel
 
-
-
+Jaime ce projets parce que ca nous parle de sujets que pas beaucoup de personne aime parlé. Ça va nous sensibiliser et nous faire réfleter sur nos acte. 
 
 ## - 4 : 3 minutes
 
-
+Ce projet intéresse parce que j'ai envie d'essayer de la réalité virtuelle dans ballon chasseur parce que je n’ai jamais fait du sport en Vr j'ai envie de ressentir les effets d'etre dans un endroit serré.
 
 ## - 5 : Chronaufrage
 
-Chronaufrage est un 
+Chronaufrage est un des projets que j'ai le moins aimé parce que j'aime pas trop les arts. Regarder ce projet me rappelle les musées, ça m'intéresse pas à rester devant un art très longtemps aàvoir une animation. Je préfère les arts plus interactive. 
 
 ## - 6 : Distorsion collective
 
@@ -37,7 +36,7 @@ Je crois que je vais me sentir dans un endroit différent toutes les fois que l'
 
 ## Chronaufrage :
 
-Je crois que je vais ressentir 
+Je crois que je vais ressentir impressionner par l'animation des arts parce que 
 
 ## Distorsion collective :
 
