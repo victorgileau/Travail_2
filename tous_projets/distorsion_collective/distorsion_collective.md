@@ -31,7 +31,7 @@ L'histoire va se dérouler à l'intérieur d'une maison en réalité virtuelle, 
 
 # ce qui sera attendu de vous, en tant qu'interacteur
 
-Nous devons essayer de vivre comme des étudiantsqui étudient a distance , mettre le casque Vr,explorer la piece.
+Nous devons essayer de vivre comme des étudiantsqui étudient a distance , mettre le casque Vr, explorer la piece.
 
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
 
