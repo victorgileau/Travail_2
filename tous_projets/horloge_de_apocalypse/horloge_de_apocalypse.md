@@ -20,6 +20,8 @@ L'horloge de l'apocalypse
 
 # l'installation en cours dans les studios 
 
+![colone.jpg](media/colone.jpg)
+
 # le schéma de l'installation prévue 
 
 ![plantation.png](media/plantation.png)
