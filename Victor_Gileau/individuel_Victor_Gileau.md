@@ -1,32 +1,32 @@
 # Projet préféré
 
 
-- 1 : L'horloge de l'apocalypse
+## - 1 : L'horloge de l'apocalypse
 
 Raison : J'aime bien l'idée de cette œuvre multimédia, le fait que tu interagis avec une horloge pour changer le temps et la situation à laquelle tu te trouves à l'aide des images et animation qui sont projetées tout autour de celui qui apprécie l'œuvre.
 De plus, j'aime beaucoup le dessin et j'aimerai apprendre l'animation donc cela vient plus me chercher personnellement.
 
 
-- 2 : Chronaufrage
+## - 2 : Chronaufrage
 
 Raison : J'aime aussi l'idée de cette œuvre-ci, mais elle n'est pas aussi interactive au toucher donc elle est un peu moins immersive. Mais, tout comme l'horloge de l'apocalypse, je m’y intéresse surtout parce qu'il y a du dessin et de l’animation dans l'œuvre.
 
 
-- 3 : Jeu temporel
+## - 3 : Jeu temporel
 
 Raison : J'aime le fait que c'est un jeu qui a un animateur qui change un peu comme un AI. Cela permet d'avoir une expérience immersive et interactive avec l'animateur et le questionnaire ce qui augmente l'intérêt envers l'œuvre. De plus, il peut y avoir plusieurs fins au questionnaire ce qui permet à revisiter l'œuvre.
 
-- 4 : 3 minutes
+## - 4 : 3 minutes
 
 Raison : Ce projet a une bonne idée de donner trois minutes pour jouer au ballon chasseur et par la suite isoler le spectateur, cela va surement être une expérience intéressante, mais je n'ai pas hâte de la vivre. Aussi, le fait de faire un jeu 3D en VR c'est intéressant car je n'ai jamais fait de VR mais c'est un concept intéressant que peu des œuvres explorent.
 
 
-- 5 : Distorsion collective
+## - 5 : Distorsion collective
 
 Raison : Ce projet est intéressant, car il parle de l'expérience de la COVID-19 des 2 dernières années, cela va donc être une expérience intéressante, mais bon, personne désire revivre les deux dernières années je crois. Cette oeuvre est aussi intéressante dans le fait qu'elle utilise le VR, ce qui est un outil nouveau et intéressant avec beaucoup de possibilités.
 
 
-- 6 : Chère Sasha
+## - 6 : Chère Sasha
 
 Raison : Sur tous les projets, cela doit être celui qui demande le plus de préparation, recréer une chambre en différents états doit être difficile, mais l'idée ne vient pas me chercher du tout personnellement donc je n’ai pas le plus grand intérêt, mais c’est une expérience qui vaut la peine d'être vécue selon moi.
 
