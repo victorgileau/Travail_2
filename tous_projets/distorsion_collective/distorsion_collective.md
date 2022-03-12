@@ -14,11 +14,14 @@ distorsion_collective
 
 # l'ambiance
 
+L'histoire va se dérouler à l'intérieur d'une maison en réalité virtuelle, la maison aura 3 pièces, la chambre, le salon et la cuisine.
 
 
 # l'installation en cours dans les studios 
 
 ![3d-source-1-resize.png](medias/3d-source-1-resize.png)
+
+![ref-3d-1.png](medias/ref-3d-1.png)
 
 # le schéma de l'installation prévue 
 ![planV2.png](medias/planV2.png)
@@ -28,6 +31,7 @@ distorsion_collective
 
 # ce qui sera attendu de vous, en tant qu'interacteur
 
+Nous devons essayer de vivre comme des étudiantsqui étudient a distance , mettre le casque Vr,explorer la piece.
 
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
 
