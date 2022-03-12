@@ -14,7 +14,7 @@ L'horloge de l'apocalypse
 -Maxime De Falco
 
 # La façon dont le thème du temps est exploité dans la création
-
+Dans cette oeuvre, il y a une horloge qui réagit quand on fait tourner les aiguilles à certaines heures. Plus l'aiguille se rapproche de la fin, plus en plus la scène avance dans le temps et se modernise et devient une apocalypse à la fin.
 
 # L'ambiance
 
