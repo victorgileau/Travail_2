@@ -8,14 +8,14 @@ Raison: Cette oeuvre est ma préférée car je la trouve originale et intéressa
 
 Raison: J'ai envie de tester ce projet car il a l'air amusant à essayer. Ce sera surement amusant de lancer des ballons virtuellement en VR. J'ai utilisé un casque VR une seule fois dans ma vie et c'était quand j'étais plus jeune. Je veux vivre l'expérience d'être enfermé dans un casier pour le plaisir aussi.
 
-## - 3 : Chronaufrage
+## - 3 : Chère Sasha
 
-Raison: J'ai hâte de voir les animations et les dessins créés par les étudiants. Malheureusement, cette oeuvre est un peu moins interactive que les autres oeuvres car elle réagit seulement quand on se met devant mais nous ne contrôlons pas d'autres choses. J'ai vu un aperçu des dessins qu'il y allait avoir dans le projet et cela m'a impressionné.
+Raison: 
 
 
-## - 4 : Chère Sasha
+## - 4 : Chronaufrage
 
-Raison:
+Raison:J'ai hâte de voir les animations et les dessins créés par les étudiants. Malheureusement, cette oeuvre est un peu moins interactive que les autres oeuvres car elle réagit seulement quand on se met devant mais nous ne contrôlons pas d'autres choses. J'ai vu un aperçu des dessins qu'il y allait avoir dans le projet et cela m'a impressionné.
 
 ## - 5 : Distorsion collective
 
