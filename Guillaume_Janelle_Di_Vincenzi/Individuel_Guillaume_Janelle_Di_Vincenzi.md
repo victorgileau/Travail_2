@@ -19,7 +19,7 @@ Raison:J'ai hâte de voir les animations et les dessins créés par les étudian
 
 ## - 5 : Distorsion collective
 
-Raison: Ce projet raconte la vie durant la pandémie mondiale de la Covid-19 et
+Raison: Ce projet raconte la vie durant la pandémie mondiale de la Covid-19 et ses effets négatifs.
 
 ## - 6 : Jeu temporel
 
