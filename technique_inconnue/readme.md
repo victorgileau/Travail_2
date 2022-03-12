@@ -1,1 +1,1 @@
-# une technique et une composante inconnue
+# Une technique et une composante inconnue
