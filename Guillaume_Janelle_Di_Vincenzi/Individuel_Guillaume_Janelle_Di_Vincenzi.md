@@ -19,7 +19,7 @@ Raison:
 
 ## - 5 : Distorsion collective
 
-Raison:Ce projet raconte la vie durant la pandémie mondiale de la Covid-19 et
+Raison: Ce projet raconte la vie durant la pandémie mondiale de la Covid-19 et
 
 ## - 6 : Jeu temporel
 
