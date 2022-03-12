@@ -32,15 +32,20 @@ Raison: Je ne suis pas spécialement un fan de ce sujet, mais ce projet a l'air 
 
 ## L'horloge de l'apocalypse : Je vais ressentir un peu de stress quand l'aiguille de l'horloge va tourner et que la scène va devenir de pire en pire. Surtout que ça va commencer doux au début et que ca  va graduellement s'empirer ça va être inconfortable.
 
-## Chronaufrage : Je crois que ces oeuvres vont nous calmer où nous rendre tristes un peu vu que les thèmes sont sombres.
+## Chronaufrage :
+Je crois que ces oeuvres vont nous calmer où nous rendre tristes un peu vu que les thèmes sont sombres.
 
-## Distorsion collective : Je crois que cette oeuvre va nous causer un sentiment de dérangement. Cette oeuvre va nous rappeler un mauvais temps et nous serons désatisfaits de nous rappeler de ce temps.
+## Distorsion collective :
+Je crois que cette oeuvre va nous causer un sentiment de dérangement. Cette oeuvre va nous rappeler un mauvais temps et nous serons désatisfaits de nous rappeler de ce temps.
 
-## Jeu temporel : Cette oeuvre va nous donner un sentiment d'inquietude car elle va nous rappeler à quel point nous sommes à risque si nous ne luttons pas contre le changement climatique.
+## Jeu temporel :
+Cette oeuvre va nous donner un sentiment d'inquietude car elle va nous rappeler à quel point nous sommes à risque si nous ne luttons pas contre le changement climatique.
 
-## 3 minutes : Lors du jeu de ballon je vais me sentir fort et heureux mais lorsque je serai enfermé dans un casier, je vais me sentir seul et coincé dans un petit espace noir.
+## 3 minutes :
+Lors du jeu de ballon je vais me sentir fort et heureux mais lorsque je serai enfermé dans un casier, je vais me sentir seul et coincé dans un petit espace noir.
 
-## Chère Sasha : Nous allons nous sentir mal de voir Sasha se faire intimider par ses parents et de ne pas pouvoir intervenir.
+## Chère Sasha :
+Nous allons nous sentir mal de voir Sasha se faire intimider par ses parents et de ne pas pouvoir intervenir.
 
 # Ce que je ferai dans les projets :
 Je ne suis pas fort en programmation. Je ferai quelque chose de visuel comme par exemple: la chambre de Sasha. Je ferai aussi de la sonorisation. Je vais aider à trouver un concept intéressant pour l'oeuvre avec l'équipe.
