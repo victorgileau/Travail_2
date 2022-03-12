@@ -32,7 +32,7 @@ Raison: Je ne suis pas spécialement un fan de ce sujet, mais ce projet a l'air 
 
 ## L'horloge de l'apocalypse : Je vais ressentir un peu de stress quand l'aiguille de l'horloge va tourner et que la scène va devenir de pire en pire. Surtout que ça va commencer doux au début et que ca  va graduellement s'empirer ça va être inconfortable.
 
-## Chronaufrage :
+## Chronaufrage : Je crois que ces oeuvres vont nous calmer où nous rendre tristes un peu vu que les thèmes sont sombres.
 
 ## Distorsion collective :
 
