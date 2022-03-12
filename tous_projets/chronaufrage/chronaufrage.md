@@ -16,7 +16,7 @@ chronaufrage
 
 
 # La façon dont le thème du temps est exploité dans la création
-
+La durée de l'oeuvre est influencée par nous, dépendamment de nos mouvements ou de notre position face à l'oeuvre. Elle peut devenir plus rapide ou plus lente.
 
 
 
