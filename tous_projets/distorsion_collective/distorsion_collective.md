@@ -17,6 +17,9 @@ distorsion_collective
 
 
 # l'installation en cours dans les studios 
+
+![3d-source-1-resize.png](medias/3d-source-1-resize.png)
+
 # le schéma de l'installation prévue 
 ![planV2.png](medias/planV2.png)
 
