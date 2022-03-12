@@ -13,7 +13,7 @@
 # l'installation en cours dans les studios 
 # le schéma de l'installation prévue 
 
-![chronaufrage.md](chronaufrage/chronaufrage.md)
+![technique.png](media/plan_technique.png)
 
 # ce qui sera attendu de vous, en tant qu'interacteur.trice, lorsque vous ferez l'expérience de l'installation
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
