@@ -1,7 +1,7 @@
 # Projet préféré
 ## - 1 : L'horloge de l'apocalypse
 
-L'horloge de l'apocalypse est mon projet préféré parce qu'il a plusieurs thèmes differentes. J'ai vraiment aimé le fait que toutes les époques ont une musique et une animation différente. Tu te sens vraiment dans une nouvelle époque toutes les fois que l'horloge avance.
+L'horloge de l'apocalypse est mon projet préféré parce qu'il a plusieurs thèmes differents. J'ai vraiment aimé le fait que toutes les époques ont une musique et une animation différente. Tu te sens vraiment dans une nouvelle époque toutes les fois que l'horloge avance.
 
 
 ## - 2 : Chère Sasha
@@ -11,15 +11,15 @@ J'ai vraiment aimé ce projet pour des raisons plus sentimentales, je m'explique
 
 ##  - 3 : Jeu temporel
 
-Jaime ce projets parce que ca nous parle de sujets que pas beaucoup de personne aime parlé. Ça va nous sensibiliser et nous faire réfleter sur nos acte. 
+J'aime ce projet parce que ça nous parle de sujets que pas beaucoup de personne aiment parler. Ça va nous sensibiliser et nous faire refléter sur nos actes. 
 
 ## - 4 : 3 minutes
 
-Ce projet intéresse parce que j'ai envie d'essayer de la réalité virtuelle dans ballon chasseur parce que je n’ai jamais fait du sport en Vr j'ai envie de ressentir les effets d'etre dans un endroit serré.
+Ce projet m'intéresse parce que j'ai envie d'essayer de la réalité virtuelle dans le jeu de ballon chasseur parce que je n’ai jamais fait du sport en Vr. J'ai envie de ressentir les effets d'être dans un endroit serré.
 
 ## - 5 : Chronaufrage
 
-Chronaufrage est un des projets que j'ai le moins aimé parce que j'aime pas trop les arts. Regarder ce projet me rappelle les musées, ça m'intéresse pas à rester devant un art très longtemps aàvoir une animation. Je préfère les arts plus interactive. 
+Chronaufrage est un des projets que j'ai le moins aimé parce que je n'aime pas trop les arts. Regarder ce projet me rappelle les musées, ça ne m'intéresse pas de rester devant une pièce d'art très longtemps pour regarder une animation. Je préfère les arts plus interactifs. 
 
 ## - 6 : Distorsion collective
 
@@ -36,7 +36,7 @@ Je crois que je vais me sentir dans un endroit différent toutes les fois que l'
 
 ## Chronaufrage :
 
-Je crois que je vais etre impressionner par l'animation des arts parce que j'ai jamais vue un art interactif. D'habitude les oeuvres sont animer constament ,mais dans celle la il faut que tu te mette devant elle pour quelle s'active.
+Je crois que je vais être impressionné par l'animation des arts parce que je n'ai jamais vu un art interactif. D'habitude, les oeuvres sont animées constamment ,mais dans celle-ci, il faut que tu te mette devant elle pour quelle s'active.
 
 ## Distorsion collective :
 
