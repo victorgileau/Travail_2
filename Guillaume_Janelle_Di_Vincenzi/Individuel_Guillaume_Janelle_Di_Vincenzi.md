@@ -10,7 +10,7 @@ Raison: J'ai envie de tester ce projet car il a l'air amusant à essayer. Ce ser
 
 ## - 3 : Chronaufrage
 
-Raison: J'ai hâte de voir les animations et les dessins créés par les étudiants. Malheureusement, cette 
+Raison: J'ai hâte de voir les animations et les dessins créés par les étudiants. Malheureusement, cette oeuvre est un peu moins interactive que les autres oeuvres car elle réagit seulement quand on se met devant mais nous ne contrôlons pas d'autres choses.
 
 
 ## - 4 : Chère Sasha
