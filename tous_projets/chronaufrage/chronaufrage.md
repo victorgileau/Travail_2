@@ -12,7 +12,7 @@
 
 # l'installation en cours dans les studios 
 
-
+![scenarimage_03.png](media/scenarimage_03.png)
 
 ![scenarimage_2.5.png](media/scenarimage_2.5.png)
 
