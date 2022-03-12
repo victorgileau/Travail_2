@@ -34,7 +34,7 @@ Raison: Je ne suis pas spécialement un fan de ce sujet, mais ce projet a l'air 
 
 ## Chronaufrage : Je crois que ces oeuvres vont nous calmer où nous rendre tristes un peu vu que les thèmes sont sombres.
 
-## Distorsion collective :
+## Distorsion collective : Je crois que cette oeuvre va nous causer un sentiment de dérangement. Cette oeuvre va nous rappeler un mauvais temps et nous serons désatisfaits de nous rappeler de ce temps.
 
 ## Jeu temporel :
 
