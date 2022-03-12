@@ -33,7 +33,7 @@ J'ai moins aimé ce projet parce que je suis épuisé de la Covid. Juste entendr
 
 ## L'horloge de l'apocalypse :
 
-Je crois que je vais me sentir dans un endroit différent toutes les fois que l'horloge va tourner. Je sens que la musique et les prjocteurs du mur va vraiment donner une ambiance différente.
+Je crois que je vais me sentir dans un endroit différent toutes les fois que l'horloge va tourner. Je sens que la musique et les projecteurs du mur vont vraiment donner une ambiance différente.
 
 ## Chronaufrage :
 
@@ -41,7 +41,7 @@ Je crois que je vais ressentir
 
 ## Distorsion collective :
 
-Je crois que ce projet va me faire ressentir dans un endroit isoler. Je sens que projet va tellement être réalistique que moi-même je vais stresser pour les devoirs.
+Je crois que ce projet va me faire sentir dans un endroit isolé. Je sens que projet va tellement être réaliste que même moi je vais stresser pour les devoirs.
 
 ## Jeu temporel :
 
@@ -49,11 +49,11 @@ Je crois que ce jeu va me faire réaliser l'importance du changement climatique,
 
 ## 3 minutes :
 
-Je crois que je vais ressentir de la joie et de la panique. Je vais ressentir de la joie parce que ballon chasseur était mon jeu d'enfance et je crois que je vais panique une fois que je vais être dans le casier parce que j'aime par les endroits étroit.
+Je crois que je vais ressentir de la joie et de la panique. Je vais ressentir de la joie parce que ballon chasseur était mon jeu d'enfance et je crois que je vais paniquer une fois que je vais être dans le casier parce que j'aime pas les endroits étroit.
 
 ## Chère Sasha :
 
-Je crois que je vais ressentir les émotions que Sasha va éprouver. Je vais partager ses émotions, etre contant avec elle, triste avec elle.
+Je crois que je vais ressentir les émotions que Sasha va éprouver. Je vais partager ses émotions, être content avec elle et triste avec elle.
 
 # Ce que je ferai dans les projets :
 
