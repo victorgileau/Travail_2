@@ -24,6 +24,8 @@ L'horloge de l'apocalypse
 
 ![horloge.jpg](media/horloge.jpg)
 
+![telephone.png](media/telephone.png)
+
 # le schéma de l'installation prévue 
 
 ![plantation.png](media/plantation.png)
