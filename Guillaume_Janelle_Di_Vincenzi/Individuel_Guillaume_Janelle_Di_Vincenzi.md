@@ -1,27 +1,27 @@
 # Projet préféré
-- 1 : L'horloge de l'apocalypse
+## - 1 : L'horloge de l'apocalypse
 
 Raison: J'aime cette oeuvre car je la trouve originale et intéressante. J'aime le fait que nous avons le contrôle sur l'horloge pour changer le temps et donc changer la situation sur la Terre et que nous sommes dans une pièce isolée dans le petit studio. Nous sommes entourés de projections dans la petite pièce avec des trames sonores qui représentent bien la vidéo affichée sur les murs.
 
 
-- 2 : 3 minutes
+## - 2 : 3 minutes
 
 Raison: J'ai envie de tester ce projet car il a l'air amusant à essayer. Ce sera surement amusant de lancer des ballons virtuellement en VR. J'ai utilisé un casque VR une seule fois dans ma vie et c'était quand j'étais plus jeune. Je veux vivre l'expérience d'être enfermé dans un casier pour le plaisir aussi.
 
-- 3 : Chronaufrage
+## - 3 : Chronaufrage
 
 Raison: J'ai hâte de voir les animations et les dessins créés par les étudiants. Malheureusement, cette 
 
 
-- 4 : Chère Sasha
+## - 4 : Chère Sasha
 
 Raison:
 
-- 5 : Jeu temporel
+## - 5 : Jeu temporel
 
 Raison:
 
-- 6 : Distorsion collective
+## - 6 : Distorsion collective
 
 Raison:
 Ce projet raconte la vie durant la pandémie mondiale de la Covid-19
@@ -29,7 +29,8 @@ Ce projet raconte la vie durant la pandémie mondiale de la Covid-19
 
 
 # Ressenti des installations
-# L'horloge de l'apocalypse :
+
+## L'horloge de l'apocalypse :
 
 ## Chronaufrage :
 
