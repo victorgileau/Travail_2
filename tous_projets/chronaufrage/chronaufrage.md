@@ -1,8 +1,8 @@
-# le titre
+# Titre
 
 chronaufrage
 
-# les créateurs et créatrices
+# Les créateurs et créatrices
 
 -Maloney Khim
 
@@ -15,26 +15,26 @@ chronaufrage
 -Émilie Fontaine
 
 
-# la façon dont le thème du temps est exploité dans la création
+# La façon dont le thème du temps est exploité dans la création
 
 
 
 
-# l'ambiance
+# L'ambiance
 
 lambiance serait calme parce qu'ils ont essayer de reproduire un musé. Il va y avoir 4 grand arts.
 
-# l'installation en cours dans les studios 
+# L'installation en cours dans les studios 
 
 ![scenarimage_03.png](media/scenarimage_03.png)
 
 ![scenarimage_2.5.png](media/scenarimage_2.5.png)
 
-# le schéma de l'installation prévue 
+# Le schéma de l'installation prévue 
 
 ![technique.png](media/plan_technique.png)
 
-# ce qui sera attendu de vous, en tant qu'interacteur
+# Ce qui sera attendu de vous, en tant qu'interacteur
 
 Nous devons regarder les arts et faires des mouvement gestuelle pour animer les ouevres.
 
@@ -46,7 +46,7 @@ Conception sonore pour faire la musique.
 
 Montage vidéo pour pouvoir mettre en monter le projet.
 
-# source
+# Source
 
 https://tim-montmorency.com/2022/projets/Chronaufrage/docs/web/index.html
 
