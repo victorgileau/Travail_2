@@ -10,7 +10,7 @@ distorsion collective
 
 
 # La façon dont le thème du temps est exploité dans la création
-
+L'oeuvre nous parle des choses qui sont arrivées depuis deux ans liées à la pandémie et ce que ça a causé depuis tout ce temps.
 
 # L'ambiance
 
