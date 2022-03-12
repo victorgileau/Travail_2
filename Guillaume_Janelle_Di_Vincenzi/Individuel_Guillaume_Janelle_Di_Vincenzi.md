@@ -36,9 +36,9 @@ Raison: Je ne suis pas spécialement un fan de ce sujet, mais ce projet a l'air 
 
 ## Distorsion collective : Je crois que cette oeuvre va nous causer un sentiment de dérangement. Cette oeuvre va nous rappeler un mauvais temps et nous serons désatisfaits de nous rappeler de ce temps.
 
-## Jeu temporel :
+## Jeu temporel : Cette oeuvre va nous donner un sentiment d'inquietude car elle va nous rappeler à quel point nous sommes à risque si nous ne luttons pas contre le changement climatique.
 
-## 3 minutes :
+## 3 minutes : Lors du jeu de ballon je vais me sentir fort et heureux mais lorsque je serai enfermé dans un casier, je vais me sentir seul et coincé dans un petit espace noir.
 
 ## Chère Sasha :
 
