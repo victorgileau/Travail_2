@@ -9,7 +9,7 @@ Raison: J'aime cette oeuvre car je la trouve originale et intéressante. J'aime 
 Raison:
 
 
-- 3 : Jeu temporel
+- 3 : Chère Sasha
 
 Raison:
 
@@ -18,7 +18,7 @@ Raison:
 
 Raison:
 
-- 5 : Chère Sasha
+- 5 : Jeu temporel
 
 Raison:
 
