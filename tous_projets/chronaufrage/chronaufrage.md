@@ -11,6 +11,11 @@
 
 
 # l'installation en cours dans les studios 
+
+
+
+![scenarimage_2.5.png](media/scenarimage_2.5.png)
+
 # le schéma de l'installation prévue 
 
 ![technique.png](media/plan_technique.png)
