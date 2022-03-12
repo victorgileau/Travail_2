@@ -1,6 +1,6 @@
 # le titre
 
-distorsion_collective
+distorsion collective
 
 # les créateurs et créatrices
 
@@ -14,7 +14,7 @@ distorsion_collective
 
 # l'ambiance
 
-L'histoire va se dérouler à l'intérieur d'une maison en réalité virtuelle, la maison aura 3 pièces, la chambre, le salon et la cuisine.
+L'histoire va se dérouler à l'intérieur d'une maison en réalité virtuelle. La maison aura 3 pièces, la chambre, le salon et la cuisine.
 
 
 # l'installation en cours dans les studios 
@@ -31,7 +31,7 @@ L'histoire va se dérouler à l'intérieur d'une maison en réalité virtuelle, 
 
 # ce qui sera attendu de vous, en tant qu'interacteur
 
-Nous devons essayer de vivre comme des étudiantsqui étudient a distance , mettre le casque Vr, explorer la piece.
+Nous devons essayer de vivre comme des étudiants qui étudient à distance,mettre le casque Vr et explorer la pièce.
 
 # 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce projet
 
@@ -39,7 +39,7 @@ Modélisation 3D pour faire les objets 3D.
 
 Realité virtuelle pour créer un environnement immersif.
 
-integration web pour programmer l'interface du projet.
+Intégration web pour programmer l'interface du projet.
 
 # source
 
