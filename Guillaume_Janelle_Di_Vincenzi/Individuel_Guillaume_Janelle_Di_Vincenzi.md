@@ -1,7 +1,7 @@
 # Projet préféré
 - 1 : L'horloge de l'apocalypse
 
-Raison:
+Raison: J'aime cette oeuvre car je la trouve originale et intéressante. J'aime le fait que nous avons le controle sur l'horloge pour changer le temps et donc changer la situation sur la Terre
 
 
 - 2 : Chronaufrage
@@ -25,7 +25,7 @@ Raison:
 - 6 : Distorsion collective
 
 Raison:
-Ce projet raconte la vie durant la pandémie mondial de la covid-19
+Ce projet raconte la vie durant la pandémie mondiale de la Covid-19
 
 
 
