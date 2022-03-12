@@ -13,7 +13,7 @@ Chère Sasha
 -Sabrina Kayani
 
 # La façon dont le thème du temps est exploité dans la création
-
+Un peut voir la situation de la chambre de Sasha qui reflète sa personnalité avant, dans le passé, et après, dans le futur quand elle n'habite plus chez ses parents.
 
 
 
