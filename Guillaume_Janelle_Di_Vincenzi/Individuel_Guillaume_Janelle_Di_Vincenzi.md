@@ -19,11 +19,11 @@ Raison:J'ai hâte de voir les animations et les dessins créés par les étudian
 
 ## - 5 : Distorsion collective
 
-Raison: Ce projet raconte la vie durant la pandémie mondiale de la Covid-19 et ses effets négatifs.
+Raison: Ce projet raconte la vie durant la pandémie mondiale de la Covid-19 et ses effets négatifs. C'est sur que je n'aime pas entendre parler de l'école en ligne et des masques, mais je trouve intéressant le fait qu'il va y avoir du VR pour nous présenter cela.
 
 ## - 6 : Jeu temporel
 
-Raison:
+Raison: Je ne suis pas spécialement un fan de ce sujet, mais ce projet a l'air bien monté et est unique dans le sens ou il y a plusieurs alternatives de fins qui vont nous donner envie de recommencer le questionnaire pour voir toutes les possibilités.
 
 
 
