@@ -30,7 +30,7 @@ Raison: Je ne suis pas spécialement un fan de ce sujet, mais ce projet a l'air 
 
 # Ressenti des installations
 
-## L'horloge de l'apocalypse :
+## L'horloge de l'apocalypse : Je vais ressentir un peu de stress quand quand l'aiguille de l'horloge va tourner et que la scène va devenir de pire en pire
 
 ## Chronaufrage :
 
