@@ -6,8 +6,7 @@ Raison: J'aime cette oeuvre car je la trouve originale et intéressante. J'aime 
 
 - 2 : 3 minutes
 
-Raison:
-
+Raison: J'ai envie de tester ce projet car il a l'air amusant à essayer. Ce sera surement amusant 
 
 - 3 : Chère Sasha
 
