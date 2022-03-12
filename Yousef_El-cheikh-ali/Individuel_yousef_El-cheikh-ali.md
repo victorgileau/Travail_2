@@ -36,7 +36,7 @@ Je crois que je vais me sentir dans un endroit différent toutes les fois que l'
 
 ## Chronaufrage :
 
-Je crois que je vais ressentir impressionner par l'animation des arts parce que 
+Je crois que je vais etre impressionner par l'animation des arts parce que j'ai jamais vue un art interactif. D'habitude les oeuvres sont animer constament ,mais dans celle la il faut que tu te mette devant elle pour quelle s'active.
 
 ## Distorsion collective :
 
