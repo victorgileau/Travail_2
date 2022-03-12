@@ -17,14 +17,14 @@ Raison: J'ai hâte de voir les animations et les dessins créés par les étudia
 
 Raison:
 
-## - 5 : Jeu temporel
+## - 5 : Distorsion collective
+
+Raison:Ce projet raconte la vie durant la pandémie mondiale de la Covid-19 et
+
+## - 6 : Jeu temporel
 
 Raison:
 
-## - 6 : Distorsion collective
-
-Raison:
-Ce projet raconte la vie durant la pandémie mondiale de la Covid-19 et
 
 
 
